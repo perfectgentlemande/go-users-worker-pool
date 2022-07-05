@@ -1,0 +1,37 @@
+[
+    {
+        "id": "269fc904-bccc-4c3c-bf04-a9127ccf73a2",
+        "username": "aaa",
+        "email": "aaa@something.ru"
+    },
+    {
+        "id": "5fba8f8b-0dfd-44a9-a8f6-607c087abf5a",
+        "username": "bbb",
+        "email": "bbb@something.ru"
+    },
+    {
+        "id": "00a1bfb1-3eb4-4af9-b936-f061b4736a42",
+        "username": "ccc",
+        "email": "ccc@something.ru"
+    },
+    {
+        "id": "059e7c0f-84ed-4265-a599-c9a0582fff6d",
+        "username": "ddd",
+        "email": "ddd@something.ru"
+    },
+    {
+        "id": "637893ad-605e-47c8-a8a3-3f02dd5a9df3",
+        "username": "eee",
+        "email": "eee@something.ru"
+    },
+    {
+        "id": "afea3e76-f488-4e57-a397-f0b67e5170ce",
+        "username": "fff",
+        "email": "fff@something.ru"
+    },
+    {
+        "id": "015d920b-c318-4cd2-adde-9e5e8918bf7c",
+        "username": "ggg",
+        "email": "ggg@something.ru"
+    }
+]
